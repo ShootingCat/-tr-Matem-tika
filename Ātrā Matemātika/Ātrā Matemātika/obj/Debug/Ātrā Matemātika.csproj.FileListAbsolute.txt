@@ -1,0 +1,13 @@
+C:\Users\krist\Desktop\Projekti\Ātrā Matemātika\Ātrā Matemātika\bin\Debug\Ātrā Matemātika.exe.config
+C:\Users\krist\Desktop\Projekti\Ātrā Matemātika\Ātrā Matemātika\bin\Debug\Ātrā Matemātika.exe
+C:\Users\krist\Desktop\Projekti\Ātrā Matemātika\Ātrā Matemātika\bin\Debug\Ātrā Matemātika.pdb
+C:\Users\krist\Desktop\Projekti\Ātrā Matemātika\Ātrā Matemātika\obj\Debug\Ātrā Matemātika.csproj.AssemblyReference.cache
+C:\Users\krist\Desktop\Projekti\Ātrā Matemātika\Ātrā Matemātika\obj\Debug\Ātrā Matemātika.csproj.SuggestedBindingRedirects.cache
+C:\Users\krist\Desktop\Projekti\Ātrā Matemātika\Ātrā Matemātika\obj\Debug\Ātrā_Matemātika.Form1.resources
+C:\Users\krist\Desktop\Projekti\Ātrā Matemātika\Ātrā Matemātika\obj\Debug\Ātrā_Matemātika.Form2.resources
+C:\Users\krist\Desktop\Projekti\Ātrā Matemātika\Ātrā Matemātika\obj\Debug\Ātrā_Matemātika.Form3.resources
+C:\Users\krist\Desktop\Projekti\Ātrā Matemātika\Ātrā Matemātika\obj\Debug\Ātrā_Matemātika.Properties.Resources.resources
+C:\Users\krist\Desktop\Projekti\Ātrā Matemātika\Ātrā Matemātika\obj\Debug\Ātrā Matemātika.csproj.GenerateResource.cache
+C:\Users\krist\Desktop\Projekti\Ātrā Matemātika\Ātrā Matemātika\obj\Debug\Ātrā Matemātika.csproj.CoreCompileInputs.cache
+C:\Users\krist\Desktop\Projekti\Ātrā Matemātika\Ātrā Matemātika\obj\Debug\Ātrā Matemātika.exe
+C:\Users\krist\Desktop\Projekti\Ātrā Matemātika\Ātrā Matemātika\obj\Debug\Ātrā Matemātika.pdb
